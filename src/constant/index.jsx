@@ -15,7 +15,7 @@ export const features = [
     },
     {
       icon: <BrushIcon />,
-      text: "Landpage Design",
+      text: "Landing-page Design",
       
     },
     {
@@ -30,12 +30,12 @@ export const features = [
     },
     {
       icon: <BrushIcon />,
-      text: "Brand Design",
+      text: "Branding",
       
     },
     {
       icon: <BrushIcon />,
-      text: "Analytics Dashboard",
+      text: "Printing",
       
     },
   ];

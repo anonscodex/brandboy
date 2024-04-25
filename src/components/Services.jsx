@@ -11,7 +11,7 @@ const Services = () => {
                     <div key={index} className="w-full sm:w-1/2 lg:w-1/3 ">
                         <div className="flex p-6">
                             <div className="flex mx-10 text-my-logo-color justify-center items-center">{feature.icon}</div>
-                            <div>{feature.text}</div>
+                            <div className="text-2xl">{feature.text}</div>
                         </div>
                     </div>
                 )
