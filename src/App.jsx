@@ -5,6 +5,8 @@ import Navibar from './components/Navibar'
 import Hero from './components/Hero'
 import Portfolio from './components/Portfolio'
 import Services from './components/Services'
+import Contact from './components/Contact'
+import Footer from './components/Footer'
 
 
 function App() {
@@ -18,6 +20,8 @@ function App() {
       </div>
       <Portfolio />
       <Services />
+      <Contact />
+      <Footer />
     </>
       
   )

@@ -8,6 +8,12 @@ export const navItems = [
     {label: "Contact", href: "#"},
 ];
 
+export const portfolio = [
+  {
+    image : <port />
+  }
+]
+
 export const features = [
     {
       icon: <BrushIcon />,
@@ -39,4 +45,6 @@ export const features = [
       
     },
   ];
+
+  
   
