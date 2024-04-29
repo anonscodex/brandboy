@@ -2,10 +2,10 @@
 import { BrushIcon } from "lucide-react";
 
 export const navItems = [
-    {label: "Home", href: "#"},
-    {label: "Portfolio", href: "#"},
-    {label: "Services", href: "#"},
-    {label: "Contact", href: "#"},
+    {label: "Home", href: "" },
+    {label: "Portfolio", href: ""},
+    {label: "Services", href: ""},
+    {label: "Contact", href: ""},
 ];
 
 export const portfolio = [

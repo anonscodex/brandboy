@@ -9,7 +9,7 @@ const Navibar = () =>  {
 
     const[mobileOpen, setMobileOpen] = useState(false)
 
-    const[lightMode, setLightMode] = useState(false)
+    
 
     const toggleNavbar = () => {
         setMobileOpen(!mobileOpen)
